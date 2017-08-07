@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+set -x
+
+BLACKLIST_URL=http://dsi.ut-capitole.fr/blacklists/download/blacklists.tar.gz
+
+curl -s $BLACKLIST_URL | tar xzf -

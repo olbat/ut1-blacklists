@@ -1,0 +1,17 @@
+# UT1 Blacklists
+
+## About
+This repository -daily- mirrors lists from the of the _[UT1](http://www.ut-capitole.fr) blacklists_ [website](http://dsi.ut-capitole.fr/blacklists/index_en.php) that's managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040).  
+The lists are available to download and use under the condition of the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+__Note__: this repository is only intended to mirror lists from the _UT1 blacklists_ website, to modify/update them please [contact](#see-also) the maintainer(s).
+
+## Lists
+| Name | Size | Description |
+|:-----|:-----|:------------|
+<%- @lists.each do |name, info| -%>
+| [<%= name %>](blacklists/<%= name %>) | <%= info[:size] %> | <%= info[:desc] %> |
+<% end -%>
+
+## See also
+More information are available on the project's website: http://dsi.ut-capitole.fr/blacklists/ .

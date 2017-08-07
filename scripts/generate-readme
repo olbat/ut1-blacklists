@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+INDEX_PAGE = "http://dsi.ut-capitole.fr/blacklists/index_en.php"
+
+require 'nokogiri'
+require 'open-uri'
+require 'erb'
+
+doc = Nokogiri::HTML(open(INDEX_PAGE))
+
+lists = {}
+doc.xpath("//table/tr").each do |entry|
+  children = entry.children
+  lists[children[0].text] = {
+    size: children[1].text.strip,
+    desc: children[2].text.strip.gsub(/\.$/, ''),
+  }
+end
+
+instance_variable_set(:"@lists", lists)
+define_method("lists") { instance_variable_get(:"@lists") }
+
+template = ERB.new(STDIN.read, nil, '->')
+STDOUT.puts template.result(binding())

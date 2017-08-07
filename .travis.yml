@@ -1,0 +1,8 @@
+---
+language: ruby
+rvm: 2.2
+
+script:
+- scripts/update-lists
+- bundle exec scripts/generate-readme < README.md.erb > README.md
+- scripts/sync-git
