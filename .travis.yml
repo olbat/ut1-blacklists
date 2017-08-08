@@ -2,6 +2,10 @@
 language: ruby
 rvm: 2.2
 
+branches:
+  only:
+  - master
+
 script:
 - set -e
 - scripts/update-lists
