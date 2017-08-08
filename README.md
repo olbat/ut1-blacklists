@@ -1,10 +1,7 @@
 # UT1 Blacklists
+This repository mirrors the blacklists of the [UT1](http://www.ut-capitole.fr) website, managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040). It is synchronized with the website once per day.
 
-## About
-This repository -daily- mirrors lists from the of the _[UT1](http://www.ut-capitole.fr) blacklists_ [website](http://dsi.ut-capitole.fr/blacklists/index_en.php) that's managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040).  
-The lists are available to download and use under the condition of the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-__Note__: this repository is only intended to mirror lists from the _UT1 blacklists_ website, to modify/update them please [contact](#see-also) the maintainer(s).
+__Note__: this repository is only intended to mirror lists, to modify/update them please [contact](#see-also) the maintainer(s)
 
 ## Lists
 | Name | Size | Description |
@@ -65,5 +62,7 @@ __Note__: this repository is only intended to mirror lists from the _UT1 blackli
 | [warez](blacklists/warez) | 887 | Warez sites |
 | [webmail](blacklists/webmail) | 341 | Webmail sites (hotmail like...) |
 
+__Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
+
 ## See also
-More information are available on the project's website: http://dsi.ut-capitole.fr/blacklists/ .
+More information are available on the [project's website](http://dsi.ut-capitole.fr/blacklists/index_en.php).
