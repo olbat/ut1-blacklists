@@ -7,7 +7,7 @@ set -e
 set -x
 
 # if there is some changes in the repository: commit, tag and push them
-git add -N *
+git add -N blacklists/
 if ! git diff --exit-code > /dev/null
 then
 	git commit -am "Automatic blacklist update"
