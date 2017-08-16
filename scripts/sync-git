@@ -8,7 +8,9 @@ set -x
 
 # if there is some changes in the repository: commit, tag and push them
 git add -N blacklists/
-if ! git diff --exit-code > /dev/null
+if ! git diff --exit-code -- . ':!blacklists/README' > /dev/null
+# (do not take in account changes that only affects the blacklists/README file
+# since this file is updated every day with the date)
 then
 	git commit -am "Automatic blacklist update"
 	tag=$(date +%Y-%m-%d)
