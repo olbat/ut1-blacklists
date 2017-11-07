@@ -6,12 +6,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1947464 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1947840 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 359 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3396 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3398 | Some audio and video sites |
 | [bank](blacklists/bank) | 1697 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 254 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -31,7 +31,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [financial](blacklists/financial) | 80 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1118 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11131 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11132 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 301 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
@@ -50,10 +50,10 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 18 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36396 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36398 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 262 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 636 | All social networks sites |
-| [sports](blacklists/sports) | 2275 | Sports |
+| [sports](blacklists/sports) | 2277 | Sports |
 | [strict_redirector](blacklists/strict_redirector) | 125745 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 125745 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 170 | Sites for translation |
