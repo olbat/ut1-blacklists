@@ -6,16 +6,16 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1947983 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1948713 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 359 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3398 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3399 | Some audio and video sites |
 | [bank](blacklists/bank) | 1697 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 254 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
-| [celebrity](blacklists/celebrity) | 673 | Famous people, actors, and magazine which talk about them |
+| [celebrity](blacklists/celebrity) | 675 | Famous people, actors, and magazine which talk about them |
 | [chat](blacklists/chat) | 227 | Chat site |
 | [child](blacklists/child) | 70 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
@@ -31,26 +31,26 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [financial](blacklists/financial) | 80 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1118 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11132 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11133 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 301 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2825 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 1845 | Any website which deliver malware |
+| [malware](blacklists/malware) | 1674 | Any website which deliver malware |
 | [manga](blacklists/manga) | 729 | Any website related to manga, and cartoons |
-| [marketingware](blacklists/marketingware) | 820 | Very special marketing sites |
+| [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63508 | Phishing sites |
 | [press](blacklists/press) | 4451 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 1429 | Advertisement |
-| [radio](blacklists/radio) | 491 | Internet radio sites |
+| [radio](blacklists/radio) | 492 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 126027 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 18 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36398 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36401 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 262 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 636 | All social networks sites |
 | [sports](blacklists/sports) | 2277 | Sports |
