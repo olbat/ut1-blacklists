@@ -826,3 +826,16 @@ NAME NL: shortener
 NAME DE: shortener
 NAME ES: shortener
 
+NAME: cryptojacking
+DEFAULT_TYPE: black
+SOURCE: http://squidguard.ut-capitole.fr
+DESC FR: Site de mining en hijacking
+DESC EN: Mining site by hijacking
+NAME RU: cryptojacking
+NAME EN: cryptojacking
+NAME FR: cryptojacking
+NAME IT: cryptojacking
+NAME NL: cryptojacking
+NAME DE: cryptojacking
+NAME ES: cryptojacking
+
