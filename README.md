@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1966862 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1966995 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -47,7 +47,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [publicite](blacklists/publicite) | 1429 | Advertisement |
 | [radio](blacklists/radio) | 492 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129362 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129364 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 18 | Website which talk about sexual education, and can be misdetected as porn |
@@ -55,8 +55,8 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [shortener](blacklists/shortener) | 262 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 639 | All social networks sites |
 | [sports](blacklists/sports) | 2277 | Sports |
-| [strict_redirector](blacklists/strict_redirector) | 129091 | Same as redirector, but with google, yahoo, and other cache/images search robots |
-| [strong_redirector](blacklists/strong_redirector) | 129091 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
+| [strict_redirector](blacklists/strict_redirector) | 129093 | Same as redirector, but with google, yahoo, and other cache/images search robots |
+| [strong_redirector](blacklists/strong_redirector) | 129093 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 170 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 5 | Update sites for software or OS |
