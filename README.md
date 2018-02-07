@@ -36,8 +36,8 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [hacking](blacklists/hacking) | 301 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
-| [liste_bu](blacklists/liste_bu) | 2829 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 14915 | Any website which deliver malware |
+| [liste_bu](blacklists/liste_bu) | 2837 | A french list for educational sites. VERY locally oriented. may help libraries |
+| [malware](blacklists/malware) | 14917 | Any website which deliver malware |
 | [manga](blacklists/manga) | 735 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
