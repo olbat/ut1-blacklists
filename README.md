@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1970617 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1971140 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -16,11 +16,11 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [bitcoin](blacklists/bitcoin) | 255 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 675 | Famous people, actors, and magazine which talk about them |
-| [chat](blacklists/chat) | 229 | Chat site |
+| [chat](blacklists/chat) | 230 | Chat site |
 | [child](blacklists/child) | 70 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 16 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 1144 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 1169 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3572 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 232 | DDoS or Stresser Sites |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2837 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 15122 | Any website which deliver malware |
+| [malware](blacklists/malware) | 15074 | Any website which deliver malware |
 | [manga](blacklists/manga) | 735 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
@@ -50,7 +50,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [redirector](blacklists/redirector) | 129382 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
-| [sexual_education](blacklists/sexual_education) | 18 | Website which talk about sexual education, and can be misdetected as porn |
+| [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36404 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 262 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 641 | All social networks sites |
