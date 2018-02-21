@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2574987 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1972862 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -20,7 +20,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [child](blacklists/child) | 70 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 16 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 4871 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 1448 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3572 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 232 | DDoS or Stresser Sites |
@@ -31,15 +31,15 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [filehosting](blacklists/filehosting) | 833 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 80 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
-| [gambling](blacklists/gambling) | 1118 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11141 | games sites (flash and online games ) |
+| [gambling](blacklists/gambling) | 1120 | Gambling and games sites, casino, etc |
+| [games](blacklists/games) | 11149 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 301 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2837 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 14814 | Any website which deliver malware |
-| [manga](blacklists/manga) | 735 | Any website related to manga, and cartoons |
-| [marketingware](blacklists/marketingware) | 874 | Very special marketing sites |
+| [malware](blacklists/malware) | 15333 | Any website which deliver malware |
+| [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
+| [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63508 | Phishing sites |
@@ -47,7 +47,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [publicite](blacklists/publicite) | 1429 | Advertisement |
 | [radio](blacklists/radio) | 492 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129384 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129392 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
@@ -55,12 +55,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [shortener](blacklists/shortener) | 262 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 641 | All social networks sites |
 | [sports](blacklists/sports) | 2277 | Sports |
-| [strict_redirector](blacklists/strict_redirector) | 129113 | Same as redirector, but with google, yahoo, and other cache/images search robots |
-| [strong_redirector](blacklists/strong_redirector) | 129113 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
+| [strict_redirector](blacklists/strict_redirector) | 129121 | Same as redirector, but with google, yahoo, and other cache/images search robots |
+| [strong_redirector](blacklists/strong_redirector) | 129121 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 170 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 5 | Update sites for software or OS |
-| [warez](blacklists/warez) | 887 | Warez sites |
+| [warez](blacklists/warez) | 892 | Warez sites |
 | [webmail](blacklists/webmail) | 341 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
