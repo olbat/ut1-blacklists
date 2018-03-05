@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1975055 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1975199 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2837 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 15426 | Any website which deliver malware |
+| [malware](blacklists/malware) | 15428 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
@@ -45,7 +45,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [phishing](blacklists/phishing) | 63508 | Phishing sites |
 | [press](blacklists/press) | 4452 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 1429 | Advertisement |
-| [radio](blacklists/radio) | 492 | Internet radio sites |
+| [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129394 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
@@ -60,7 +60,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [translation](blacklists/translation) | 170 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 5 | Update sites for software or OS |
-| [warez](blacklists/warez) | 892 | Warez sites |
+| [warez](blacklists/warez) | 899 | Warez sites |
 | [webmail](blacklists/webmail) | 341 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
