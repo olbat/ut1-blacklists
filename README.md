@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 1997233 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 1997313 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -20,7 +20,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [child](blacklists/child) | 70 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 16 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 2544 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 2548 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3573 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 232 | DDoS or Stresser Sites |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2837 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 14790 | Any website which deliver malware |
+| [malware](blacklists/malware) | 14409 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 821 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
@@ -47,7 +47,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [publicite](blacklists/publicite) | 1429 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129449 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129453 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 42 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
