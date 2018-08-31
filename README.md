@@ -6,13 +6,13 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2016668 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2016671 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 360 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
 | [audio-video](blacklists/audio-video) | 3404 | Some audio and video sites |
-| [bank](blacklists/bank) | 1698 | Online bank |
+| [bank](blacklists/bank) | 1702 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 255 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 675 | Famous people, actors, and magazine which talk about them |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 385 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 71 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2845 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 980 | Any website which deliver malware |
+| [malware](blacklists/malware) | 1050 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 823 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
