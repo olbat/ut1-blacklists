@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2019517 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2019523 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 361 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -60,7 +60,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [translation](blacklists/translation) | 170 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 5 | Update sites for software or OS |
-| [warez](blacklists/warez) | 934 | Warez sites |
+| [warez](blacklists/warez) | 936 | Warez sites |
 | [webmail](blacklists/webmail) | 342 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
