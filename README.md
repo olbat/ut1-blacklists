@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 72 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2845 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 1475 | Any website which deliver malware |
+| [malware](blacklists/malware) | 1477 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 823 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
@@ -60,7 +60,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [translation](blacklists/translation) | 170 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 5 | Update sites for software or OS |
-| [warez](blacklists/warez) | 936 | Warez sites |
+| [warez](blacklists/warez) | 937 | Warez sites |
 | [webmail](blacklists/webmail) | 342 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
