@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2019660 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2019731 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 361 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -36,15 +36,15 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [hacking](blacklists/hacking) | 301 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 72 | Sites for lingerie |
-| [liste_bu](blacklists/liste_bu) | 2849 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 14542 | Any website which deliver malware |
+| [liste_bu](blacklists/liste_bu) | 2852 | A french list for educational sites. VERY locally oriented. may help libraries |
+| [malware](blacklists/malware) | 14557 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 823 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63508 | Phishing sites |
 | [press](blacklists/press) | 4452 | Any press (informational) site |
-| [publicite](blacklists/publicite) | 1454 | Advertisement |
+| [publicite](blacklists/publicite) | 1455 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129519 | Some redirector sites, which are used to circumvent filtering |
