@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2020926 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2020990 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 373 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -44,7 +44,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63508 | Phishing sites |
 | [press](blacklists/press) | 4452 | Any press (informational) site |
-| [publicite](blacklists/publicite) | 1462 | Advertisement |
+| [publicite](blacklists/publicite) | 1464 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129528 | Some redirector sites, which are used to circumvent filtering |
