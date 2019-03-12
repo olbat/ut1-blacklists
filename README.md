@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2031373 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2032586 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -23,7 +23,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [cryptojacking](blacklists/cryptojacking) | 8005 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3575 | Dating, matching site for single person |
-| [ddos](blacklists/ddos) | 291 | DDoS or Stresser Sites |
+| [ddos](blacklists/ddos) | 297 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 0 | Dialer Sites |
 | [download](blacklists/download) | 66 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1055 | Sites relative to drugs |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 76 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2868 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 14596 | Any website which deliver malware |
+| [malware](blacklists/malware) | 14600 | Any website which deliver malware |
 | [manga](blacklists/manga) | 736 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 825 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
