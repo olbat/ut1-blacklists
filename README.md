@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2033302 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2033306 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -32,7 +32,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [financial](blacklists/financial) | 80 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1120 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11191 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11197 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 76 | Sites for lingerie |
