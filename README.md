@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2045299 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2045708 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -36,19 +36,19 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 76 | Sites for lingerie |
-| [liste_bu](blacklists/liste_bu) | 2870 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 15230 | Any website which deliver malware |
+| [liste_bu](blacklists/liste_bu) | 2871 | A french list for educational sites. VERY locally oriented. may help libraries |
+| [malware](blacklists/malware) | 15249 | Any website which deliver malware |
 | [manga](blacklists/manga) | 741 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 829 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63506 | Phishing sites |
 | [press](blacklists/press) | 4453 | Any press (informational) site |
-| [publicite](blacklists/publicite) | 4006 | Advertisement |
+| [publicite](blacklists/publicite) | 4008 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129602 | Some redirector sites, which are used to circumvent filtering |
-| [remote-control](blacklists/remote-control) | 46 | site which allow remote control of user s dekstop |
+| [remote-control](blacklists/remote-control) | 47 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36430 | Any shopping, selling center |
