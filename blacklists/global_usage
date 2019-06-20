@@ -220,8 +220,8 @@ NAME ES: Telefonía móvil
 NAME:	phishing
 DEFAULT_TYPE: black
 SOURCE: http://www.surbl.org
-DESC EN: Phishing sites
-DESC FR: Sites de phishing, de pièges bancaires, ou autres.
+DESC EN: Phishing sites (same as malware category)
+DESC FR: Sites de phishing, de pièges bancaires, ou autres. Copie de la catégorie malware.
 DESC RU: Фишинг-сайты, банковские ловушки или другое.
 DESC ES: Sitios relacionados con phishing (suplantación de identidad)
 NAME RU: Фишинг.
