@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2047150 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2047153 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -36,13 +36,13 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 77 | Sites for lingerie |
-| [liste_bu](blacklists/liste_bu) | 2871 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 15022 | Any website which deliver malware |
+| [liste_bu](blacklists/liste_bu) | 2872 | A french list for educational sites. VERY locally oriented. may help libraries |
+| [malware](blacklists/malware) | 15027 | Any website which deliver malware |
 | [manga](blacklists/manga) | 742 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 829 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 15024 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 15022 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4453 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4008 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
