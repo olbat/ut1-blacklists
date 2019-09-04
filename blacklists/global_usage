@@ -839,3 +839,15 @@ NAME NL: cryptojacking
 NAME DE: cryptojacking
 NAME ES: cryptojacking
 
+NAME: vpn
+DEFAULT_TYPE: black
+SOURCE: http://squidguard.ut-capitole.fr
+DESC FR: Site de VPN
+DESC EN: VPN site
+NAME RU: vpn
+NAME EN: vpn
+NAME FR: vpn
+NAME IT: vpn
+NAME NL: vpn
+NAME DE: vpn
+NAME ES: vpn
