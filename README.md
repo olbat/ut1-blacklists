@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2051436 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2859343 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -37,7 +37,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 78 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2876 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 16877 | Any website which deliver malware |
+| [malware](blacklists/malware) | 16861 | Any website which deliver malware |
 | [manga](blacklists/manga) | 744 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 900 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
@@ -47,7 +47,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [publicite](blacklists/publicite) | 4010 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129609 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129610 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
