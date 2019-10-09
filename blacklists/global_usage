@@ -851,3 +851,16 @@ NAME IT: vpn
 NAME NL: vpn
 NAME DE: vpn
 NAME ES: vpn
+
+NAME: stalkerware
+DEFAULT_TYPE: black
+SOURCE: http://squidguard.ut-capitole.fr
+DESC FR: Site diffusant des outils d'espionnage pour les particuliers
+DESC EN: Site which sells spying software for everybody 
+NAME RU: stalkerware
+NAME EN: stalkerware
+NAME FR: stalkerware
+NAME IT: stalkerware
+NAME NL: stalkerware
+NAME DE: stalkerware
+NAME ES: stalkerware
