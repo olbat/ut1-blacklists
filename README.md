@@ -6,13 +6,13 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2257141 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2257226 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 379 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
 | [audio-video](blacklists/audio-video) | 3461 | Some audio and video sites |
-| [bank](blacklists/bank) | 1819 | Online bank |
+| [bank](blacklists/bank) | 1820 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 254 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 675 | Famous people, actors, and magazine which talk about them |
@@ -38,12 +38,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 82 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2877 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 15553 | Any website which deliver malware |
+| [malware](blacklists/malware) | 15551 | Any website which deliver malware |
 | [manga](blacklists/manga) | 754 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 847 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 15551 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 15560 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4476 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4045 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
