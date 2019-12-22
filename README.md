@@ -38,12 +38,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 82 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2877 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 5951 | Any website which deliver malware |
+| [malware](blacklists/malware) | 5942 | Any website which deliver malware |
 | [manga](blacklists/manga) | 754 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 847 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 3198 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 5951 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4476 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4045 | Advertisement |
 | [radio](blacklists/radio) | 494 | Internet radio sites |
