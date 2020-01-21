@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2063250 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2064318 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 380 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -38,12 +38,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2877 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 26767 | Any website which deliver malware |
+| [malware](blacklists/malware) | 26778 | Any website which deliver malware |
 | [manga](blacklists/manga) | 754 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 847 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 14042 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 26773 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4476 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4045 | Advertisement |
 | [radio](blacklists/radio) | 497 | Internet radio sites |
@@ -53,7 +53,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36437 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 266 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 265 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 647 | All social networks sites |
 | [sports](blacklists/sports) | 2282 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
