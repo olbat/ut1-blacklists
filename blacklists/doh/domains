@@ -16,15 +16,13 @@ dns.containerpi.com
 dns.dns-over-https.com
 dns.google
 dns.google.com
+dns.nextdns.io
 dns.oszx.co
-dns.quad9.net
 dns.rubyfish.cn
-dns10.quad9.net
-dns11.quad9.net
 dns2.digitalcourage.de
-dns9.quad9.net
 dnscrypt-cert.oszx.co
 dnsoverhttps.net
+dnswarden.com
 doh-2.seby.io
 doh-ch.blahdns.com
 doh-de.blahdns.com
@@ -36,7 +34,6 @@ doh.captnemo.in
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.dns.sb
-doh.dnswarden.com
 doh.li
 doh.netweaver.uk
 doh.opendns.com
@@ -51,6 +48,6 @@ ibuki.cgnat.net
 jcdns.fun
 jp.tiar.app
 jp.tiarap.org
+quad9.net
 rdns.faelix.net
 securedns.eu
-dns.nextdns.io
