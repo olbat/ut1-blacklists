@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2072617 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2072646 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 380 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -20,7 +20,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [child](blacklists/child) | 73 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 16 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 8393 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 8363 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3577 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 306 | DDoS or Stresser Sites |
