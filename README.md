@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2072677 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2072680 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 380 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -19,7 +19,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [chat](blacklists/chat) | 237 | Chat site |
 | [child](blacklists/child) | 73 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
-| [cooking](blacklists/cooking) | 16 | Sites for cooking |
+| [cooking](blacklists/cooking) | 21 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 8400 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3577 | Dating, matching site for single person |
@@ -54,7 +54,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36437 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 266 | URLs shortening sites |
-| [social_networks](blacklists/social_networks) | 647 | All social networks sites |
+| [social_networks](blacklists/social_networks) | 648 | All social networks sites |
 | [sports](blacklists/sports) | 2282 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129360 | Same as redirector, but with google, yahoo, and other cache/images search robots |
