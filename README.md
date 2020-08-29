@@ -34,16 +34,16 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1145 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 11245 | games sites (flash and online games ) |
-| [hacking](blacklists/hacking) | 305 | Hacking sites |
+| [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2881 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 129347 | Any website which deliver malware |
+| [malware](blacklists/malware) | 128895 | Any website which deliver malware |
 | [manga](blacklists/manga) | 755 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 126929 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 128560 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4480 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 506 | Internet radio sites |
@@ -53,7 +53,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36437 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 295 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 296 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 647 | All social networks sites |
 | [sports](blacklists/sports) | 2282 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
