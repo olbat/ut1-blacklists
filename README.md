@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 2319599 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 2319604 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 380 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -16,7 +16,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [bitcoin](blacklists/bitcoin) | 262 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 675 | Famous people, actors, and magazine which talk about them |
-| [chat](blacklists/chat) | 237 | Chat site |
+| [chat](blacklists/chat) | 238 | Chat site |
 | [child](blacklists/child) | 73 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 173 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
@@ -38,12 +38,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2881 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 158143 | Any website which deliver malware |
+| [malware](blacklists/malware) | 159178 | Any website which deliver malware |
 | [manga](blacklists/manga) | 755 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 46 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 153504 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 158437 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4480 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 506 | Internet radio sites |
