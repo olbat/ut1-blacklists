@@ -878,3 +878,17 @@ NAME NL: doh
 NAME DE: doh
 NAME ES: doh
 
+NAME:	examen_pix
+DEFAULT_TYPE: white
+SOURCE: https://squidguard.ut-capitole.fr
+DESC EN: A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances
+DESC FR: Une liste uniquement réservée aux élèves français passant l examen PIX. NE PAS UTILISER dans d autres circonstances
+DESC RU: Список предназначен исключительно для французских студентов, сдающих экзамен PIX. НЕ ИСПОЛЬЗУЙТЕ при других обстоятельствах
+DESC ES: Una lista reservada exclusivamente para estudiantes franceses que realicen el examen PIX. NO USE en otras circunstancias
+NAME EN: Schools/PIX (french)
+NAME FR: Ecoles/PIX
+NAME IT: Scuola PIX/Università in francese)
+NAME NL: Scholen PIX/Academisch (frans)
+NAME RU: Школы PIX/Академия (французкий)
+NAME DE: Universitaet PIX (frankreich)
+NAME ES: Universitarias PIX (Francesas)
