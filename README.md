@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3068622 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3072549 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 384 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -22,7 +22,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 13580 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 368604 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 368603 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 306 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 0 | Dialer Sites |
 | [doh](blacklists/doh) | 75 | Site which provides DNS over HTTP service |
@@ -39,12 +39,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2890 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 285861 | Any website which deliver malware |
+| [malware](blacklists/malware) | 350127 | Any website which deliver malware |
 | [manga](blacklists/manga) | 779 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 286249 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 349751 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4487 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 506 | Internet radio sites |
@@ -53,7 +53,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36441 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36442 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 312 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 657 | All social networks sites |
 | [sports](blacklists/sports) | 2282 | Sports |
