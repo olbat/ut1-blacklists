@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3124865 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3124891 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 384 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -30,16 +30,16 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [drogue](blacklists/drogue) | 1055 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 99 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [filehosting](blacklists/filehosting) | 887 | Websites which host files (pictures, video, ...) |
+| [filehosting](blacklists/filehosting) | 888 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 84 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1219 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11454 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11455 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2890 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 137349 | Any website which deliver malware |
+| [malware](blacklists/malware) | 139593 | Any website which deliver malware |
 | [manga](blacklists/manga) | 779 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -55,7 +55,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36442 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 317 | URLs shortening sites |
-| [social_networks](blacklists/social_networks) | 657 | All social networks sites |
+| [social_networks](blacklists/social_networks) | 658 | All social networks sites |
 | [sports](blacklists/sports) | 2282 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129363 | Same as redirector, but with google, yahoo, and other cache/images search robots |
