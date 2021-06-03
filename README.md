@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3131815 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3131824 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 385 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -39,7 +39,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2890 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 145267 | Any website which deliver malware |
+| [malware](blacklists/malware) | 145028 | Any website which deliver malware |
 | [manga](blacklists/manga) | 781 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
