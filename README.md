@@ -6,12 +6,12 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3152067 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3152045 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 386 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3485 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3486 | Some audio and video sites |
 | [bank](blacklists/bank) | 1843 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 264 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -30,7 +30,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [drogue](blacklists/drogue) | 1056 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 99 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [filehosting](blacklists/filehosting) | 888 | Websites which host files (pictures, video, ...) |
+| [filehosting](blacklists/filehosting) | 889 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 84 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1229 | Gambling and games sites, casino, etc |
@@ -39,7 +39,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2892 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 174098 | Any website which deliver malware |
+| [malware](blacklists/malware) | 172374 | Any website which deliver malware |
 | [manga](blacklists/manga) | 782 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
