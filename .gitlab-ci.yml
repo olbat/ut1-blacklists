@@ -7,8 +7,16 @@ update-lists:
     - git config user.email "gitlab@example.com"
     - git checkout -b $MAIN_BRANCH || true
   script:
+    # install required dependencies
+    - bundle install
+
+    # fetch the last version of the blacklists
     - scripts/update-lists
+
+    # update table in README file
     - bundle exec scripts/generate-readme < README.md.erb > README.md
+
+    # push updates to git repository
     - scripts/sync-git
   only:
     - web
