@@ -1,0 +1,15 @@
+---
+update-lists:
+  stage: deploy
+  image: ruby:3
+  before_script:
+    - git config user.name "GitLab CI Runner"
+    - git config user.email "gitlab@example.com"
+    - git checkout -b $MAIN_BRANCH || true
+  script:
+    - scripts/update-lists
+    - bundle exec scripts/generate-readme < README.md.erb > README.md
+    - scripts/sync-git
+  only:
+    - web
+    - schedules
