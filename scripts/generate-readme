@@ -6,7 +6,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'erb'
 
-doc = Nokogiri::HTML(open(INDEX_PAGE))
+doc = Nokogiri::HTML(URI.open(INDEX_PAGE))
 
 lists = {}
 doc.xpath("//table/tr").each do |entry|
