@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3878546 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3879007 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 386 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -33,13 +33,13 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [filehosting](blacklists/filehosting) | 893 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 84 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
-| [gambling](blacklists/gambling) | 1230 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11482 | games sites (flash and online games ) |
+| [gambling](blacklists/gambling) | 1231 | Gambling and games sites, casino, etc |
+| [games](blacklists/games) | 11483 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2896 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 173458 | Any website which deliver malware |
+| [malware](blacklists/malware) | 173207 | Any website which deliver malware |
 | [manga](blacklists/manga) | 791 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -53,18 +53,18 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36444 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36477 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 337 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 664 | All social networks sites |
 | [sports](blacklists/sports) | 2283 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129376 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 129376 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
-| [translation](blacklists/translation) | 171 | Sites for translation |
+| [translation](blacklists/translation) | 175 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1432 | VPN site |
-| [warez](blacklists/warez) | 1123 | Warez sites |
+| [warez](blacklists/warez) | 1124 | Warez sites |
 | [webmail](blacklists/webmail) | 384 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
