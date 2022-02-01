@@ -6,7 +6,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 3882040 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 3882302 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 386 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -39,7 +39,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 83 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2896 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 173405 | Any website which deliver malware |
+| [malware](blacklists/malware) | 173491 | Any website which deliver malware |
 | [manga](blacklists/manga) | 791 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 28 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -64,7 +64,7 @@ __Note__: this repository is only intended to mirror lists, to modify/update the
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1432 | VPN site |
-| [warez](blacklists/warez) | 1124 | Warez sites |
+| [warez](blacklists/warez) | 1125 | Warez sites |
 | [webmail](blacklists/webmail) | 384 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
