@@ -5,8 +5,8 @@ update-lists:
   before_script:
     - git config user.name "GitLab CI Runner"
     - git config user.email "gitlab@example.com"
-    - git checkout -b $CI_DEFAULT_BRANCH || true
-    - git pull --rebase
+    - git checkout -b $CI_DEFAULT_BRANCH origin/$CI_DEFAULT_BRANCH || true
+    - git pull --rebase origin $CI_DEFAULT_BRANCH
   script:
     # install required dependencies
     - bundle install
