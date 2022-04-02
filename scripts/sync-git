@@ -3,11 +3,15 @@
 GIT_REMOTE="https://${GITHUB_TOKEN}@github.com/olbat/ut1-blacklists"
 GIT_BRANCH="master"
 
-set -e
-set -x
+set -euxo pipefail
 
-# if there is some changes in the repository: commit, tag and push them
+# compress files that are bigger than 100M as GitHub doesn't allow to
+# push files of that size anymore
+find blacklists -type f -size +99M -exec gzip -nf {} \;
+
+# if there are some changes in the repository: commit, tag and push them
 git add -N blacklists/
+
 if ! git diff --exit-code -- . ':!blacklists/README' > /dev/null
 # (do not take in account changes that only affects the blacklists/README file
 # since this file is updated every day with the date)
