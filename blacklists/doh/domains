@@ -17,8 +17,10 @@
 93.177.65.183
 94.130.106.88
 95.216.181.228
+adguard-dns.com
 chibstatic.ru
 cloudflare-dns.com
+controld.com
 dns-family.adguard.com
 dns-nyc.aaflalo.me
 dns-over-https.com
@@ -83,5 +85,3 @@ quad9.net
 rdns.faelix.net
 securedns.eu
 uncensored.lux1.dns.nixnet.xyz
-controld.com
-adguard-dns.com
