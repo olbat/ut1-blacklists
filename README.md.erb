@@ -3,6 +3,8 @@ This repository mirrors the blacklists of the [UT1](http://www.ut-capitole.fr) w
 
 __Note__: this repository is only intended to mirror lists, to modify/update them please [contact](#see-also) the maintainer(s)
 
+__Important__: due to [a GitHub restriction](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits) on file sizes, files that are bigger than 100MB are gzip-compressed
+
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
