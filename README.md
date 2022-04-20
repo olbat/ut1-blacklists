@@ -8,12 +8,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4262361 | Some adult site from erotic to hard pornography |
-| [agressif](blacklists/agressif) | 386 | Some aggressive sites |
+| [adult](blacklists/adult) | 4262660 | Some adult site from erotic to hard pornography |
+| [agressif](blacklists/agressif) | 387 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3553 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3559 | Some audio and video sites |
 | [bank](blacklists/bank) | 1845 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 266 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -41,9 +41,9 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 84 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 63081 | Any website which deliver malware |
+| [malware](blacklists/malware) | 62951 | Any website which deliver malware |
 | [manga](blacklists/manga) | 826 | Any website related to manga, and cartoons |
-| [marketingware](blacklists/marketingware) | 30 | Very special marketing sites |
+| [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 63140 | Phishing sites (same as malware category) |
@@ -51,12 +51,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 509 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129663 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129665 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36525 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 341 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 342 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 675 | All social networks sites |
 | [sports](blacklists/sports) | 2283 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
@@ -65,8 +65,8 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [translation](blacklists/translation) | 178 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
-| [vpn](blacklists/vpn) | 1447 | VPN site |
-| [warez](blacklists/warez) | 1147 | Warez sites |
+| [vpn](blacklists/vpn) | 1449 | VPN site |
+| [warez](blacklists/warez) | 1151 | Warez sites |
 | [webmail](blacklists/webmail) | 384 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
