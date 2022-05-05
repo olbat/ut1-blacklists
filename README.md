@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4375275 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4377545 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 387 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 84 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 63388 | Any website which deliver malware |
+| [malware](blacklists/malware) | 63151 | Any website which deliver malware |
 | [manga](blacklists/manga) | 826 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 63408 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 63106 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 509 | Internet radio sites |
@@ -56,7 +56,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36565 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 343 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 344 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 679 | All social networks sites |
 | [sports](blacklists/sports) | 2292 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
@@ -67,7 +67,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1450 | VPN site |
 | [warez](blacklists/warez) | 1160 | Warez sites |
-| [webmail](blacklists/webmail) | 384 | Webmail sites (hotmail like...) |
+| [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
 
