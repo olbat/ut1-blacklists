@@ -8,14 +8,14 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4382099 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4384555 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 387 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
 | [audio-video](blacklists/audio-video) | 3562 | Some audio and video sites |
 | [bank](blacklists/bank) | 1845 | Online bank |
-| [bitcoin](blacklists/bitcoin) | 266 | Sites for bitcoin mining |
+| [bitcoin](blacklists/bitcoin) | 267 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 674 | Famous people, actors, and magazine which talk about them |
 | [chat](blacklists/chat) | 242 | Chat site |
@@ -35,18 +35,18 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [filehosting](blacklists/filehosting) | 896 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 84 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
-| [gambling](blacklists/gambling) | 1325 | Gambling and games sites, casino, etc |
+| [gambling](blacklists/gambling) | 1326 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 11510 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 84 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 63246 | Any website which deliver malware |
+| [malware](blacklists/malware) | 63383 | Any website which deliver malware |
 | [manga](blacklists/manga) | 826 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 152 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 63192 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 63085 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 509 | Internet radio sites |
@@ -66,7 +66,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1450 | VPN site |
-| [warez](blacklists/warez) | 1162 | Warez sites |
+| [warez](blacklists/warez) | 1164 | Warez sites |
 | [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
