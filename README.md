@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4412882 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4413142 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 387 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -29,7 +29,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 89 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4019 | Sites which propose to download software |
-| [drogue](blacklists/drogue) | 1063 | Sites relative to drugs |
+| [drogue](blacklists/drogue) | 1064 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 276 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
 | [filehosting](blacklists/filehosting) | 896 | Websites which host files (pictures, video, ...) |
@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 85 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 62832 | Any website which deliver malware |
+| [malware](blacklists/malware) | 62529 | Any website which deliver malware |
 | [manga](blacklists/manga) | 827 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -51,7 +51,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 513 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129668 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 129669 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 144 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
