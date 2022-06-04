@@ -8,12 +8,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4447271 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4448941 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 388 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3568 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3572 | Some audio and video sites |
 | [bank](blacklists/bank) | 1845 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 267 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -24,7 +24,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 14224 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 49 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 3810 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 3812 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 89 | Site which provides DNS over HTTP service |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 85 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 64601 | Any website which deliver malware |
+| [malware](blacklists/malware) | 64396 | Any website which deliver malware |
 | [manga](blacklists/manga) | 827 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 64595 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 64499 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4044 | Advertisement |
 | [radio](blacklists/radio) | 513 | Internet radio sites |
@@ -57,7 +57,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36565 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 352 | URLs shortening sites |
-| [social_networks](blacklists/social_networks) | 679 | All social networks sites |
+| [social_networks](blacklists/social_networks) | 682 | All social networks sites |
 | [sports](blacklists/sports) | 2294 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129399 | Same as redirector, but with google, yahoo, and other cache/images search robots |
@@ -66,7 +66,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur](blacklists/tricheur) | 46 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1451 | VPN site |
-| [warez](blacklists/warez) | 1207 | Warez sites |
+| [warez](blacklists/warez) | 1210 | Warez sites |
 | [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
