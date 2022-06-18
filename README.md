@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4475692 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4475890 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 388 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 85 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 64582 | Any website which deliver malware |
+| [malware](blacklists/malware) | 64670 | Any website which deliver malware |
 | [manga](blacklists/manga) | 827 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 33 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -66,7 +66,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur](blacklists/tricheur) | 53 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1454 | VPN site |
-| [warez](blacklists/warez) | 1272 | Warez sites |
+| [warez](blacklists/warez) | 1275 | Warez sites |
 | [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
