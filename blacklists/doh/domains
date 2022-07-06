@@ -61,6 +61,7 @@ doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.defaultroutes.de
+doh.dns.apple.com
 doh.dns.sb
 doh.dns.snopyta.org
 doh.familyshield.opendns.com
@@ -82,7 +83,10 @@ ibuki.cgnat.net
 jcdns.fun
 jp.tiar.app
 jp.tiarap.org
+mask.icloud.com
+proxy.safebrowsing.apple
 quad9.net
 rdns.faelix.net
 securedns.eu
+token.safebrowsing.apple
 uncensored.lux1.dns.nixnet.xyz
