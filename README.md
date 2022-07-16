@@ -8,12 +8,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4537749 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4540351 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 390 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3588 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3589 | Some audio and video sites |
 | [bank](blacklists/bank) | 1845 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 269 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -24,7 +24,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 14319 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 3827 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 3828 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 94 | Site which provides DNS over HTTP service |
@@ -41,15 +41,15 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 86 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 64277 | Any website which deliver malware |
+| [malware](blacklists/malware) | 64304 | Any website which deliver malware |
 | [manga](blacklists/manga) | 828 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 42 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 64271 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 64274 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4050 | Advertisement |
-| [radio](blacklists/radio) | 522 | Internet radio sites |
+| [radio](blacklists/radio) | 526 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129672 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 48 | site which allow remote control of user s dekstop |
