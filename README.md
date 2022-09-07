@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4615304 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4615533 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 390 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 86 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 65398 | Any website which deliver malware |
+| [malware](blacklists/malware) | 65299 | Any website which deliver malware |
 | [manga](blacklists/manga) | 828 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 42 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
@@ -56,7 +56,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36678 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 366 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 367 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 682 | All social networks sites |
 | [sports](blacklists/sports) | 2304 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
