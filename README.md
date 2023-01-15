@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4514887 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4515017 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 390 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -32,7 +32,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [drogue](blacklists/drogue) | 1065 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 276 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [filehosting](blacklists/filehosting) | 907 | Websites which host files (pictures, video, ...) |
+| [filehosting](blacklists/filehosting) | 909 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 85 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1365 | Gambling and games sites, casino, etc |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 41745 | Any website which deliver malware |
+| [malware](blacklists/malware) | 41660 | Any website which deliver malware |
 | [manga](blacklists/manga) | 829 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 42 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 41903 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 41730 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4049 | Advertisement |
 | [radio](blacklists/radio) | 526 | Internet radio sites |
