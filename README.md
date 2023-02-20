@@ -22,7 +22,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 174 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 15873 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 15874 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3830 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 39399 | Any website which deliver malware |
+| [malware](blacklists/malware) | 39213 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 42 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 153 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 39793 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 39214 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4049 | Advertisement |
 | [radio](blacklists/radio) | 526 | Internet radio sites |
@@ -66,7 +66,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur](blacklists/tricheur) | 54 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 6 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 1476 | VPN site |
-| [warez](blacklists/warez) | 1393 | Warez sites |
+| [warez](blacklists/warez) | 1400 | Warez sites |
 | [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
