@@ -8,12 +8,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4520307 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4520371 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 390 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3688 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3689 | Some audio and video sites |
 | [bank](blacklists/bank) | 1846 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 270 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
@@ -32,7 +32,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [drogue](blacklists/drogue) | 1065 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 440 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [filehosting](blacklists/filehosting) | 914 | Websites which host files (pictures, video, ...) |
+| [filehosting](blacklists/filehosting) | 915 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 85 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1365 | Gambling and games sites, casino, etc |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2898 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 47931 | Any website which deliver malware |
+| [malware](blacklists/malware) | 48057 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 47029 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 47931 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4049 | Advertisement |
 | [radio](blacklists/radio) | 526 | Internet radio sites |
@@ -56,7 +56,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36679 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 379 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 380 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 686 | All social networks sites |
 | [sports](blacklists/sports) | 2305 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
