@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2901 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 47226 | Any website which deliver malware |
+| [malware](blacklists/malware) | 47563 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 50 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 47545 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 47497 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4493 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4048 | Advertisement |
 | [radio](blacklists/radio) | 526 | Internet radio sites |
@@ -56,7 +56,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36680 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 381 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 382 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 690 | All social networks sites |
 | [sports](blacklists/sports) | 2305 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
