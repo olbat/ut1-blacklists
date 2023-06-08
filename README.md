@@ -18,11 +18,11 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [bitcoin](blacklists/bitcoin) | 273 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1471 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 674 | Famous people, actors, and magazine which talk about them |
-| [chat](blacklists/chat) | 257 | Chat site |
+| [chat](blacklists/chat) | 259 | Chat site |
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 174 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 15895 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 15898 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3834 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2901 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 48337 | Any website which deliver malware |
+| [malware](blacklists/malware) | 48533 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
@@ -55,7 +55,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [remote-control](blacklists/remote-control) | 51 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36683 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36686 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 382 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 690 | All social networks sites |
 | [sports](blacklists/sports) | 2305 | Sports |
