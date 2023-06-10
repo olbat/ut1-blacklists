@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 386 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 88 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2901 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 48560 | Any website which deliver malware |
+| [malware](blacklists/malware) | 48623 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
