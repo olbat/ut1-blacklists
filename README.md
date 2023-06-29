@@ -16,19 +16,19 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [audio-video](blacklists/audio-video) | 3740 | Some audio and video sites |
 | [bank](blacklists/bank) | 1851 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 274 | Sites for bitcoin mining |
-| [blog](blacklists/blog) | 1471 | Some blogs sites |
+| [blog](blacklists/blog) | 1472 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 674 | Famous people, actors, and magazine which talk about them |
 | [chat](blacklists/chat) | 259 | Chat site |
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 174 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 21 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 15995 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 15998 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3834 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
-| [doh](blacklists/doh) | 247 | Site which provides DNS over HTTP service |
-| [download](blacklists/download) | 4029 | Sites which propose to download software |
+| [doh](blacklists/doh) | 248 | Site which provides DNS over HTTP service |
+| [download](blacklists/download) | 4030 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1065 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 440 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
@@ -38,24 +38,24 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [gambling](blacklists/gambling) | 1449 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 11728 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
-| [jobsearch](blacklists/jobsearch) | 390 | Site to looking for job |
+| [jobsearch](blacklists/jobsearch) | 393 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2901 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 51199 | Any website which deliver malware |
+| [malware](blacklists/malware) | 51490 | Any website which deliver malware |
 | [manga](blacklists/manga) | 830 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 51754 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4504 | Any press (informational) site |
-| [publicite](blacklists/publicite) | 4054 | Advertisement |
+| [phishing](blacklists/phishing) | 51410 | Phishing sites (same as malware category) |
+| [press](blacklists/press) | 4511 | Any press (informational) site |
+| [publicite](blacklists/publicite) | 4065 | Advertisement |
 | [radio](blacklists/radio) | 526 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129680 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 51 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36699 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36702 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 383 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 693 | All social networks sites |
 | [sports](blacklists/sports) | 2312 | Sports |
@@ -65,7 +65,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [translation](blacklists/translation) | 178 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 54 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 31 | Update sites for software or OS |
-| [vpn](blacklists/vpn) | 5459 | VPN site |
+| [vpn](blacklists/vpn) | 5635 | VPN site |
 | [warez](blacklists/warez) | 1408 | Warez sites |
 | [webmail](blacklists/webmail) | 410 | Webmail sites (hotmail like...) |
 
