@@ -35,30 +35,30 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [filehosting](blacklists/filehosting) | 920 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 85 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
-| [gambling](blacklists/gambling) | 1449 | Gambling and games sites, casino, etc |
+| [gambling](blacklists/gambling) | 1450 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 11728 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 395 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2901 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 48416 | Any website which deliver malware |
+| [malware](blacklists/malware) | 48536 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 48457 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 48415 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4518 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4057 | Advertisement |
-| [radio](blacklists/radio) | 526 | Internet radio sites |
+| [radio](blacklists/radio) | 527 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129680 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 51 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36716 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36728 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 383 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 694 | All social networks sites |
-| [sports](blacklists/sports) | 2313 | Sports |
+| [sports](blacklists/sports) | 2314 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129408 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 129408 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
