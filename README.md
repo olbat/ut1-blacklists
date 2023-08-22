@@ -36,18 +36,18 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 102 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1453 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11734 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11733 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 414 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 45233 | Any website which deliver malware |
+| [malware](blacklists/malware) | 45419 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 45232 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4545 | Any press (informational) site |
+| [phishing](blacklists/phishing) | 45387 | Phishing sites (same as malware category) |
+| [press](blacklists/press) | 4548 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4060 | Advertisement |
 | [radio](blacklists/radio) | 528 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
@@ -55,7 +55,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [remote-control](blacklists/remote-control) | 54 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36815 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36818 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 387 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 701 | All social networks sites |
 | [sports](blacklists/sports) | 2323 | Sports |
