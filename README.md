@@ -13,7 +13,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3763 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3764 | Some audio and video sites |
 | [bank](blacklists/bank) | 1865 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 274 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1478 | Some blogs sites |
@@ -22,14 +22,14 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 177 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 26 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 16010 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 16014 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3838 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 248 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4031 | Sites which propose to download software |
-| [drogue](blacklists/drogue) | 1065 | Sites relative to drugs |
+| [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 440 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
 | [filehosting](blacklists/filehosting) | 932 | Websites which host files (pictures, video, ...) |
@@ -41,13 +41,13 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 416 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 46707 | Any website which deliver malware |
+| [malware](blacklists/malware) | 46921 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
 | [phishing](blacklists/phishing) | 45370 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4549 | Any press (informational) site |
+| [press](blacklists/press) | 4550 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4060 | Advertisement |
 | [radio](blacklists/radio) | 528 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
@@ -58,7 +58,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [shopping](blacklists/shopping) | 36823 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 387 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 701 | All social networks sites |
-| [sports](blacklists/sports) | 2327 | Sports |
+| [sports](blacklists/sports) | 2328 | Sports |
 | [stalkerware](blacklists/stalkerware) | 22 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 129409 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 129409 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
