@@ -36,12 +36,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 104 | Sites relative financial information |
 | [forums](blacklists/forums) | 209 | Forums site |
 | [gambling](blacklists/gambling) | 1453 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11733 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11735 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 418 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 51389 | Any website which deliver malware |
+| [malware](blacklists/malware) | 51589 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
@@ -63,7 +63,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [strict_redirector](blacklists/strict_redirector) | 129409 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 129409 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 179 | Sites for translation |
-| [tricheur](blacklists/tricheur) | 54 | Sites which are designed to explains cheating on exams |
+| [tricheur](blacklists/tricheur) | 71 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 32 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 5621 | VPN site |
 | [warez](blacklists/warez) | 1424 | Warez sites |
