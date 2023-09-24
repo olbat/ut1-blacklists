@@ -14,7 +14,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
 | [audio-video](blacklists/audio-video) | 3765 | Some audio and video sites |
-| [bank](blacklists/bank) | 1867 | Online bank |
+| [bank](blacklists/bank) | 1869 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 274 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1482 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 674 | Famous people, actors, and magazine which talk about them |
@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 418 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 44506 | Any website which deliver malware |
+| [malware](blacklists/malware) | 44200 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 44618 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 44224 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4554 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4060 | Advertisement |
 | [radio](blacklists/radio) | 528 | Internet radio sites |
