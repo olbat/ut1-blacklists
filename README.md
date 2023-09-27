@@ -41,15 +41,15 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 418 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 90 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 45565 | Any website which deliver malware |
+| [malware](blacklists/malware) | 52648 | Any website which deliver malware |
 | [manga](blacklists/manga) | 831 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 43 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 45205 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 45139 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4554 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4060 | Advertisement |
-| [radio](blacklists/radio) | 528 | Internet radio sites |
+| [radio](blacklists/radio) | 529 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 129681 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 54 | site which allow remote control of user s dekstop |
