@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 47425 | Any website which deliver malware |
+| [malware](blacklists/malware) | 48688 | Any website which deliver malware |
 | [manga](blacklists/manga) | 832 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 47545 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 47264 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4557 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4074 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
@@ -65,7 +65,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [translation](blacklists/translation) | 179 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 67 | Sites which are designed to explains cheating on exams |
 | [update](blacklists/update) | 32 | Update sites for software or OS |
-| [vpn](blacklists/vpn) | 5662 | VPN site |
+| [vpn](blacklists/vpn) | 5663 | VPN site |
 | [warez](blacklists/warez) | 1491 | Warez sites |
 | [webmail](blacklists/webmail) | 411 | Webmail sites (hotmail like...) |
 
