@@ -13,7 +13,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
-| [audio-video](blacklists/audio-video) | 3834 | Some audio and video sites |
+| [audio-video](blacklists/audio-video) | 3835 | Some audio and video sites |
 | [bank](blacklists/bank) | 1868 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 286 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1485 | Some blogs sites |
@@ -41,13 +41,13 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2903 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 46629 | Any website which deliver malware |
+| [malware](blacklists/malware) | 46789 | Any website which deliver malware |
 | [manga](blacklists/manga) | 832 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 46669 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4557 | Any press (informational) site |
+| [phishing](blacklists/phishing) | 46617 | Phishing sites (same as malware category) |
+| [press](blacklists/press) | 4558 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4074 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
