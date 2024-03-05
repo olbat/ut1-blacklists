@@ -892,3 +892,17 @@ NAME NL: Scholen PIX/Academisch (frans)
 NAME RU: Школы PIX/Академия (французкий)
 NAME DE: Universitaet PIX (frankreich)
 NAME ES: Universitarias PIX (Francesas)
+
+NAME: tricheur_pix
+DEFAULT_TYPE: black
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Sites bloqués lors des examens PIX en FRANCE uniquement.
+DESC EN: DO NOT USE. It s a specific blacklist for french exam.
+NAME RU: tricheur_pix
+NAME EN: tricheur_pix
+NAME FR: tricheur_pix
+NAME IT: tricheur_pix
+NAME NL: tricheur_pix
+NAME DE: tricheur_pix
+NAME ES: tricheur_pix
+
