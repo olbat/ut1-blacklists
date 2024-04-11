@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4533188 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4533263 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 393 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -41,17 +41,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 56141 | Any website which deliver malware |
+| [malware](blacklists/malware) | 56226 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 55678 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 55490 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4558 | Any press (informational) site |
-| [publicite](blacklists/publicite) | 4096 | Advertisement |
+| [publicite](blacklists/publicite) | 4097 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 129704 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 131562 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 59 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
@@ -60,8 +60,8 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [social_networks](blacklists/social_networks) | 702 | All social networks sites |
 | [sports](blacklists/sports) | 2332 | Sports |
 | [stalkerware](blacklists/stalkerware) | 23 | Site which sells spying software for everybody |
-| [strict_redirector](blacklists/strict_redirector) | 129432 | Same as redirector, but with google, yahoo, and other cache/images search robots |
-| [strong_redirector](blacklists/strong_redirector) | 129432 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
+| [strict_redirector](blacklists/strict_redirector) | 131290 | Same as redirector, but with google, yahoo, and other cache/images search robots |
+| [strong_redirector](blacklists/strong_redirector) | 131290 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 179 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 73 | Sites which are designed to explains cheating on exams |
 | [tricheur_pix](blacklists/tricheur_pix) | 83 | DO NOT USE. It s a specific blacklist for french exam |
