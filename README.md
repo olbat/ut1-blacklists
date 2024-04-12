@@ -41,12 +41,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 56226 | Any website which deliver malware |
+| [malware](blacklists/malware) | 56376 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 55490 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 56330 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4558 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4097 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
