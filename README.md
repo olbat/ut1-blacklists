@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4534790 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4534926 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 393 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -22,7 +22,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 177 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 28 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 16274 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 16273 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 3843 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
@@ -32,21 +32,21 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [filehosting](blacklists/filehosting) | 936 | Websites which host files (pictures, video, ...) |
+| [filehosting](blacklists/filehosting) | 937 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 104 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 1457 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11865 | games sites (flash and online games ) |
+| [games](blacklists/games) | 11868 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 56833 | Any website which deliver malware |
+| [malware](blacklists/malware) | 56873 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 56607 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 57003 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4558 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4097 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
@@ -66,7 +66,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur](blacklists/tricheur) | 73 | Sites which are designed to explains cheating on exams |
 | [tricheur_pix](blacklists/tricheur_pix) | 84 | DO NOT USE. It s a specific blacklist for french exam |
 | [update](blacklists/update) | 33 | Update sites for software or OS |
-| [vpn](blacklists/vpn) | 5668 | VPN site |
+| [vpn](blacklists/vpn) | 5667 | VPN site |
 | [warez](blacklists/warez) | 1493 | Warez sites |
 | [webmail](blacklists/webmail) | 411 | Webmail sites (hotmail like...) |
 
