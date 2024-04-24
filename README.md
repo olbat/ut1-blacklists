@@ -17,7 +17,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [bank](blacklists/bank) | 1868 | Online bank |
 | [bitcoin](blacklists/bitcoin) | 335 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1485 | Some blogs sites |
-| [celebrity](blacklists/celebrity) | 674 | Famous people, actors, and magazine which talk about them |
+| [celebrity](blacklists/celebrity) | 673 | Famous people, actors, and magazine which talk about them |
 | [chat](blacklists/chat) | 264 | Chat site |
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 177 | Sites to disinfect, update and protect computers |
@@ -38,10 +38,10 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [gambling](blacklists/gambling) | 1457 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 11868 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
-| [jobsearch](blacklists/jobsearch) | 420 | Site to looking for job |
+| [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 56873 | Any website which deliver malware |
+| [malware](blacklists/malware) | 57019 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
