@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4535028 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4535128 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 393 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -24,7 +24,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 28 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 16273 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 3843 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 3853 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3013 | Site which provides DNS over HTTP service |
@@ -36,17 +36,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 104 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 1457 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 11870 | games sites (flash and online games ) |
+| [games](blacklists/games) | 12257 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 57150 | Any website which deliver malware |
+| [malware](blacklists/malware) | 57208 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 154 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 57123 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 57036 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4558 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4097 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
