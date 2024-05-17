@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4535900 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4536006 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 393 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -41,7 +41,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 57520 | Any website which deliver malware |
+| [malware](blacklists/malware) | 57364 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 155 | Websites which contains adult sections unstructured |
@@ -54,7 +54,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [redirector](blacklists/redirector) | 131562 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 65 | site which allow remote control of user s dekstop |
 | [sect](blacklists/sect) | 145 | Sect |
-| [sexual_education](blacklists/sexual_education) | 19 | Website which talk about sexual education, and can be misdetected as porn |
+| [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36860 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 426 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 703 | All social networks sites |
