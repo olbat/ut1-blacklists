@@ -906,3 +906,17 @@ NAME NL: tricheur_pix
 NAME DE: tricheur_pix
 NAME ES: tricheur_pix
 
+
+NAME: residential_proxies
+DEFAULT_TYPE: black
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Site diffusant residential_proxies
+DESC EN: Site which provides residential_proxies
+NAME RU: residential_proxies
+NAME EN: residential_proxies
+NAME FR: residential_proxies
+NAME IT: residential_proxies
+NAME NL: residential_proxies
+NAME DE: residential_proxies
+NAME ES: residential_proxies
+
