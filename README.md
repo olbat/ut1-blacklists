@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4536462 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4536637 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 393 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -35,25 +35,25 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [filehosting](blacklists/filehosting) | 938 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 472 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
-| [gambling](blacklists/gambling) | 5624 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 33211 | games sites (flash and online games ) |
+| [gambling](blacklists/gambling) | 5645 | Gambling and games sites, casino, etc |
+| [games](blacklists/games) | 33212 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 91 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 57793 | Any website which deliver malware |
+| [malware](blacklists/malware) | 58581 | Any website which deliver malware |
 | [manga](blacklists/manga) | 834 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 155 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 57715 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 58524 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4107 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 131562 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 65 | site which allow remote control of user s dekstop |
-| [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
+| [residential_proxies](blacklists/residential_proxies) | 0 | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36860 | Any shopping, selling center |
