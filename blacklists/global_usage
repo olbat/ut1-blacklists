@@ -920,3 +920,17 @@ NAME NL: residential_proxies
 NAME DE: residential_proxies
 NAME ES: residential_proxies
 
+
+NAME: fakenews
+DEFAULT_TYPE: black
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Site diffusant fakenews
+DESC EN: Site which provides fakenews
+NAME RU: fakenews
+NAME EN: fakenews
+NAME FR: fakenews
+NAME IT: fakenews
+NAME NL: fakenews
+NAME DE: fakenews
+NAME ES: fakenews
+
