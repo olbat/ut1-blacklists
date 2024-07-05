@@ -8,23 +8,23 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4537454 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4537456 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
 | [audio-video](blacklists/audio-video) | 3841 | Some audio and video sites |
 | [bank](blacklists/bank) | 1896 | Online bank |
-| [bitcoin](blacklists/bitcoin) | 335 | Sites for bitcoin mining |
+| [bitcoin](blacklists/bitcoin) | 336 | Sites for bitcoin mining |
 | [blog](blacklists/blog) | 1485 | Some blogs sites |
 | [celebrity](blacklists/celebrity) | 673 | Famous people, actors, and magazine which talk about them |
 | [chat](blacklists/chat) | 264 | Chat site |
 | [child](blacklists/child) | 74 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 177 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 28 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 16276 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 16275 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 4262 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 4261 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3015 | Site which provides DNS over HTTP service |
@@ -42,12 +42,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 103 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 60276 | Any website which deliver malware |
+| [malware](blacklists/malware) | 59903 | Any website which deliver malware |
 | [manga](blacklists/manga) | 835 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 155 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 60133 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 59878 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4107 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
