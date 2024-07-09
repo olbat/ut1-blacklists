@@ -27,7 +27,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [dating](blacklists/dating) | 4261 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
-| [doh](blacklists/doh) | 3015 | Site which provides DNS over HTTP service |
+| [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4033 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
@@ -42,12 +42,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 103 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 61237 | Any website which deliver malware |
+| [malware](blacklists/malware) | 61445 | Any website which deliver malware |
 | [manga](blacklists/manga) | 835 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 155 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 61346 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 60753 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4107 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
@@ -58,7 +58,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36860 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 431 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 432 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 703 | All social networks sites |
 | [sports](blacklists/sports) | 2332 | Sports |
 | [stalkerware](blacklists/stalkerware) | 23 | Site which sells spying software for everybody |
