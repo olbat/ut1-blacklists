@@ -42,7 +42,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 121 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 60000 | Any website which deliver malware |
+| [malware](blacklists/malware) | 60047 | Any website which deliver malware |
 | [manga](blacklists/manga) | 835 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 155 | Websites which contains adult sections unstructured |
@@ -58,7 +58,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36860 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 433 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 434 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 703 | All social networks sites |
 | [sports](blacklists/sports) | 2332 | Sports |
 | [stalkerware](blacklists/stalkerware) | 23 | Site which sells spying software for everybody |
