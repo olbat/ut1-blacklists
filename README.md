@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4539741 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4541177 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -27,7 +27,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [dating](blacklists/dating) | 4262 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
-| [doh](blacklists/doh) | 3015 | Site which provides DNS over HTTP service |
+| [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4033 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
@@ -42,12 +42,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 62372 | Any website which deliver malware |
+| [malware](blacklists/malware) | 62447 | Any website which deliver malware |
 | [manga](blacklists/manga) | 837 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 62578 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 62477 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4107 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
@@ -69,7 +69,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur_pix](blacklists/tricheur_pix) | 84 | DO NOT USE. It s a specific blacklist for french exam |
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 5670 | VPN site |
-| [warez](blacklists/warez) | 1493 | Warez sites |
+| [warez](blacklists/warez) | 1510 | Warez sites |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
