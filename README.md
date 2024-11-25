@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4577410 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4577528 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -32,7 +32,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [fakenews](blacklists/fakenews) | 1080 | Site which provides fakenews |
+| [fakenews](blacklists/fakenews) | 1085 | Site which provides fakenews |
 | [filehosting](blacklists/filehosting) | 938 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 472 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
@@ -42,7 +42,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 112419 | Any website which deliver malware |
+| [malware](blacklists/malware) | 110750 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
