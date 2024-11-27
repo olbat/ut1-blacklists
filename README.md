@@ -37,17 +37,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 472 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 5661 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 35234 | games sites (flash and online games ) |
+| [games](blacklists/games) | 35273 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 108010 | Any website which deliver malware |
+| [malware](blacklists/malware) | 109170 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
-| [marketingware](blacklists/marketingware) | 45 | Very special marketing sites |
+| [marketingware](blacklists/marketingware) | 47 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 108281 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 108010 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4108 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
