@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4578808 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4578869 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -42,17 +42,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 117748 | Any website which deliver malware |
+| [malware](blacklists/malware) | 119595 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 47 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 118704 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 119108 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4108 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 131610 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 131619 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 65 | site which allow remote control of user s dekstop |
 | [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
