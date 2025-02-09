@@ -42,23 +42,23 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 172304 | Any website which deliver malware |
+| [malware](blacklists/malware) | 166061 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 47 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 181376 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 166489 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4645 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 131621 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 132532 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 65 | site which allow remote control of user s dekstop |
 | [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36880 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 459 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 469 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 704 | All social networks sites |
 | [sports](blacklists/sports) | 2332 | Sports |
 | [stalkerware](blacklists/stalkerware) | 30 | Site which sells spying software for everybody |
