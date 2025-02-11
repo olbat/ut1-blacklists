@@ -934,3 +934,31 @@ NAME NL: fakenews
 NAME DE: fakenews
 NAME ES: fakenews
 
+
+NAME: dynamic-dns
+DEFAULT_TYPE: black
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Site diffusant dynamic-dns
+DESC EN: Site which provides dynamic-dns
+NAME RU: dynamic-dns
+NAME EN: dynamic-dns
+NAME FR: dynamic-dns
+NAME IT: dynamic-dns
+NAME NL: dynamic-dns
+NAME DE: dynamic-dns
+NAME ES: dynamic-dns
+
+
+NAME: webhosting
+DEFAULT_TYPE: black
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Site diffusant webhosting
+DESC EN: Site which provides webhosting
+NAME RU: webhosting
+NAME EN: webhosting
+NAME FR: webhosting
+NAME IT: webhosting
+NAME NL: webhosting
+NAME DE: webhosting
+NAME ES: webhosting
+
