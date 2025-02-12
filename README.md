@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4633872 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4634571 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -30,7 +30,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4033 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
-| [dynamic-dns](blacklists/dynamic-dns) | 2073 | Site which provides dynamic-dns |
+| [dynamic-dns](blacklists/dynamic-dns) | 2074 | Site which provides dynamic-dns |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
 | [fakenews](blacklists/fakenews) | 1085 | Site which provides fakenews |
@@ -43,7 +43,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 136 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 161422 | Any website which deliver malware |
+| [malware](blacklists/malware) | 156221 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 47 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
@@ -71,7 +71,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 5672 | VPN site |
 | [warez](blacklists/warez) | 1507 | Warez sites |
-| [webhosting](blacklists/webhosting) | 2 | Site which provides webhosting |
+| [webhosting](blacklists/webhosting) | 5 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
