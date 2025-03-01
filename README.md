@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4637762 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4641207 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -30,7 +30,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4033 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1066 | Sites relative to drugs |
-| [dynamic-dns](blacklists/dynamic-dns) | 2073 | Site which provides dynamic-dns |
+| [dynamic-dns](blacklists/dynamic-dns) | 2078 | Site which provides dynamic-dns |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
 | [fakenews](blacklists/fakenews) | 1085 | Site which provides fakenews |
@@ -43,12 +43,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 421 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 137 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 157119 | Any website which deliver malware |
+| [malware](blacklists/malware) | 146201 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 47 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 51 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 85458 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 146667 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4574 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4645 | Advertisement |
 | [radio](blacklists/radio) | 540 | Internet radio sites |
@@ -59,7 +59,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36880 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 468 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 470 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 704 | All social networks sites |
 | [sports](blacklists/sports) | 2332 | Sports |
 | [stalkerware](blacklists/stalkerware) | 30 | Site which sells spying software for everybody |
@@ -71,7 +71,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 5672 | VPN site |
 | [warez](blacklists/warez) | 1507 | Warez sites |
-| [webhosting](blacklists/webhosting) | 7 | Site which provides webhosting |
+| [webhosting](blacklists/webhosting) | 14 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
