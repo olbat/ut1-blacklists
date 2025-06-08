@@ -55,7 +55,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 132367 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
-| [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
+| [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36930 | Any shopping, selling center |
