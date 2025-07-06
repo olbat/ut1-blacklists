@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4648556 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4649583 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -24,7 +24,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 34 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 16292 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 4612 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 4692 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
@@ -43,13 +43,13 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 426 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 160 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2906 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 224146 | Any website which deliver malware |
+| [malware](blacklists/malware) | 235638 | Any website which deliver malware |
 | [manga](blacklists/manga) | 839 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 77 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 223915 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4611 | Any press (informational) site |
+| [phishing](blacklists/phishing) | 233320 | Phishing sites (same as malware category) |
+| [press](blacklists/press) | 4612 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 544 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
@@ -58,10 +58,10 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
-| [shopping](blacklists/shopping) | 36937 | Any shopping, selling center |
+| [shopping](blacklists/shopping) | 36939 | Any shopping, selling center |
 | [shortener](blacklists/shortener) | 4518 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
-| [sports](blacklists/sports) | 2344 | Sports |
+| [sports](blacklists/sports) | 2345 | Sports |
 | [stalkerware](blacklists/stalkerware) | 30 | Site which sells spying software for everybody |
 | [strict_redirector](blacklists/strict_redirector) | 132095 | Same as redirector, but with google, yahoo, and other cache/images search robots |
 | [strong_redirector](blacklists/strong_redirector) | 132095 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
