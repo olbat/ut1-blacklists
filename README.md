@@ -24,7 +24,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 37 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 16292 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 5786 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 4875 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
@@ -43,12 +43,12 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 429 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 160 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2906 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 242429 | Any website which deliver malware |
+| [malware](blacklists/malware) | 243015 | Any website which deliver malware |
 | [manga](blacklists/manga) | 839 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 78 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 241068 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 244376 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4617 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 545 | Internet radio sites |
