@@ -962,3 +962,17 @@ NAME NL: webhosting
 NAME DE: webhosting
 NAME ES: webhosting
 
+
+NAME: ai
+DEFAULT_TYPE: white
+SOURCE: https://squidguard.ut-capitole.fr
+DESC FR: Site d intelligence artificielle
+DESC EN: Site which provides artificial intelligence
+NAME RU: ai
+NAME EN: ai
+NAME FR: ai
+NAME IT: ai
+NAME NL: ai
+NAME DE: ai
+NAME ES: ai
+
