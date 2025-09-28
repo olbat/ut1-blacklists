@@ -25,7 +25,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 37 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 16292 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 50 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 6162 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 6163 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
@@ -39,22 +39,22 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 32202 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 35335 | games sites (flash and online games ) |
+| [games](blacklists/games) | 35338 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 429 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 160 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2907 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 256094 | Any website which deliver malware |
+| [malware](blacklists/malware) | 257825 | Any website which deliver malware |
 | [manga](blacklists/manga) | 840 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 78 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 256077 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 256971 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4621 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 546 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 132369 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 132372 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
 | [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
@@ -64,8 +64,8 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2349 | Sports |
 | [stalkerware](blacklists/stalkerware) | 30 | Site which sells spying software for everybody |
-| [strict_redirector](blacklists/strict_redirector) | 132097 | Same as redirector, but with google, yahoo, and other cache/images search robots |
-| [strong_redirector](blacklists/strong_redirector) | 132097 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
+| [strict_redirector](blacklists/strict_redirector) | 132100 | Same as redirector, but with google, yahoo, and other cache/images search robots |
+| [strong_redirector](blacklists/strong_redirector) | 132100 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 179 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 73 | Sites which are designed to explains cheating on exams |
 | [tricheur_pix](blacklists/tricheur_pix) | 85 | DO NOT USE. It s a specific blacklist for french exam |
