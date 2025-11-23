@@ -907,18 +907,18 @@ NAME DE: tricheur_pix
 NAME ES: tricheur_pix
 
 
-NAME: residential_proxies
+NAME: residential-proxies
 DEFAULT_TYPE: black
 SOURCE: https://squidguard.ut-capitole.fr
-DESC FR: Site diffusant residential_proxies
-DESC EN: Site which provides residential_proxies
-NAME RU: residential_proxies
-NAME EN: residential_proxies
-NAME FR: residential_proxies
-NAME IT: residential_proxies
-NAME NL: residential_proxies
-NAME DE: residential_proxies
-NAME ES: residential_proxies
+DESC FR: Site diffusant residential-proxies
+DESC EN: Site which provides residential-proxies
+NAME RU: residential-proxies
+NAME EN: residential-proxies
+NAME FR: residential-proxies
+NAME IT: residential-proxies
+NAME NL: residential-proxies
+NAME DE: residential-proxies
+NAME ES: residential-proxies
 
 
 NAME: fakenews
