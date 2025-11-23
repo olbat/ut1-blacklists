@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4652571 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4652567 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [ai](blacklists/ai) | 26 | Site which provides artificial intelligence |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
@@ -28,7 +28,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [dating](blacklists/dating) | 6346 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
-| [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
+| [doh](blacklists/doh) | 3230 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4035 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1067 | Sites relative to drugs |
 | [dynamic-dns](blacklists/dynamic-dns) | 2076 | Site which provides dynamic-dns |
@@ -38,29 +38,29 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [filehosting](blacklists/filehosting) | 943 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
-| [gambling](blacklists/gambling) | 32207 | Gambling and games sites, casino, etc |
+| [gambling](blacklists/gambling) | 32215 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 35343 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 429 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 161 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2909 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 276777 | Any website which deliver malware |
+| [malware](blacklists/malware) | 277939 | Any website which deliver malware |
 | [manga](blacklists/manga) | 841 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 277334 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 280477 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4621 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 132615 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
-| [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
+| [residential-proxies](blacklists/residential-proxies) | 122 | Site which provides residential-proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4524 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4525 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
