@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4656877 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4656911 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 395 | Some aggressive sites |
 | [ai](blacklists/ai) | 26 | Site which provides artificial intelligence |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
@@ -42,15 +42,15 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [games](blacklists/games) | 35344 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 429 | Site to looking for job |
-| [lingerie](blacklists/lingerie) | 162 | Sites for lingerie |
+| [lingerie](blacklists/lingerie) | 164 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2916 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 283547 | Any website which deliver malware |
+| [malware](blacklists/malware) | 277954 | Any website which deliver malware |
 | [manga](blacklists/manga) | 841 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 283298 | Phishing sites (same as malware category) |
-| [press](blacklists/press) | 4624 | Any press (informational) site |
+| [phishing](blacklists/phishing) | 277968 | Phishing sites (same as malware category) |
+| [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
