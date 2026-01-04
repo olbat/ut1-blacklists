@@ -39,17 +39,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 32216 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 35344 | games sites (flash and online games ) |
+| [games](blacklists/games) | 35345 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 429 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 164 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2916 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 277954 | Any website which deliver malware |
+| [malware](blacklists/malware) | 275777 | Any website which deliver malware |
 | [manga](blacklists/manga) | 841 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 277968 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 277046 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
@@ -60,7 +60,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4534 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4537 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
