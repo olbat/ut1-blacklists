@@ -8,9 +8,9 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4599777 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4600228 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 396 | Some aggressive sites |
-| [ai](blacklists/ai) | 74 | Site which provides artificial intelligence |
+| [ai](blacklists/ai) | 76 | Site which provides artificial intelligence |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
 | [astrology](blacklists/astrology) | 29 | Astrology |
@@ -25,7 +25,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [cooking](blacklists/cooking) | 37 | Sites for cooking |
 | [cryptojacking](blacklists/cryptojacking) | 16289 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 54 | Sites which describe how to make bomb and some dangerous material |
-| [dating](blacklists/dating) | 6509 | Dating, matching site for single person |
+| [dating](blacklists/dating) | 6516 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
 | [dialer](blacklists/dialer) | 4 | Dialer Sites |
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
@@ -39,17 +39,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 32244 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 35395 | games sites (flash and online games ) |
+| [games](blacklists/games) | 35396 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 307 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 60741 | Site to looking for job |
-| [lingerie](blacklists/lingerie) | 195 | Sites for lingerie |
+| [lingerie](blacklists/lingerie) | 191 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2916 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 274129 | Any website which deliver malware |
+| [malware](blacklists/malware) | 277603 | Any website which deliver malware |
 | [manga](blacklists/manga) | 846 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 156 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 273586 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 277698 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
@@ -58,9 +58,9 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
 | [residential-proxies](blacklists/residential-proxies) | 138 | Site which provides residential-proxies |
 | [sect](blacklists/sect) | 145 | Sect |
-| [sexual_education](blacklists/sexual_education) | 21 | Website which talk about sexual education, and can be misdetected as porn |
+| [sexual_education](blacklists/sexual_education) | 23 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4541 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4543 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
@@ -71,7 +71,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur_pix](blacklists/tricheur_pix) | 85 | DO NOT USE. It s a specific blacklist for french exam |
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 6039 | VPN site |
-| [warez](blacklists/warez) | 1559 | Warez sites |
+| [warez](blacklists/warez) | 1560 | Warez sites |
 | [webhosting](blacklists/webhosting) | 27 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
