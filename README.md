@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4600362 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4600365 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 396 | Some aggressive sites |
 | [ai](blacklists/ai) | 76 | Site which provides artificial intelligence |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
@@ -39,17 +39,17 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
 | [gambling](blacklists/gambling) | 32247 | Gambling and games sites, casino, etc |
-| [games](blacklists/games) | 35396 | games sites (flash and online games ) |
+| [games](blacklists/games) | 35397 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 307 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 60741 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 200 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2916 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 716777 | Any website which deliver malware |
+| [malware](blacklists/malware) | 713180 | Any website which deliver malware |
 | [manga](blacklists/manga) | 846 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 156 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 677050 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 712909 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
@@ -60,7 +60,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 23 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4544 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4546 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
@@ -71,7 +71,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [tricheur_pix](blacklists/tricheur_pix) | 85 | DO NOT USE. It s a specific blacklist for french exam |
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 6039 | VPN site |
-| [warez](blacklists/warez) | 1560 | Warez sites |
+| [warez](blacklists/warez) | 1561 | Warez sites |
 | [webhosting](blacklists/webhosting) | 29 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
