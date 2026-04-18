@@ -5,4 +5,5 @@ set -x
 
 BLACKLIST_URL=http://dsi.ut-capitole.fr/blacklists/download/blacklists.tar.gz
 
+rm -r blacklists
 curl -s $BLACKLIST_URL | tar xzf -
