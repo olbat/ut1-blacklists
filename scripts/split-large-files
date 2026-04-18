@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -euxo pipefail
+
+# split files that are larger than 50MB (GitHub limit is 100MB per file)
+find blacklists -type f -size +50M -exec bash -c 'split -b 50M -d -a 1 "{}" "{}." && rm "{}"' \;

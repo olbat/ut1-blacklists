@@ -15,8 +15,8 @@ update-lists:
     # fetch the last version of the blacklists
     - scripts/update-lists
 
-    # compress large files
-    - scripts/compress-large-files
+    # split large files
+    - scripts/split-large-files
 
     # update table in README file
     - bundle exec scripts/generate-readme < README.md.erb > README.md

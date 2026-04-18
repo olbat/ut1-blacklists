@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -euxo pipefail
-
-# compress files that are bigger than 1MB (GitHub limit is 100MB per file now)
-find blacklists -type f -size +1M -exec gzip -nf {} \;
-
