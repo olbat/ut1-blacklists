@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIT_REMOTE="https://${GITHUB_TOKEN}@github.com/olbat/ut1-blacklists"
+GIT_REMOTE="https://oauth2:${GITLAB_TOKEN}@gitlab.com/olbat/ut1-blacklists"
 GIT_BRANCH="master"
 
 set -euxo pipefail
