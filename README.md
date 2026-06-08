@@ -8,7 +8,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4600373 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4600369 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 396 | Some aggressive sites |
 | [ai](blacklists/ai) | 80 | Site which provides artificial intelligence |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
@@ -43,13 +43,13 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [hacking](blacklists/hacking) | 307 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 60741 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 200 | Sites for lingerie |
-| [liste_bu](blacklists/liste_bu) | 2916 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 709017 | Any website which deliver malware |
+| [liste_bu](blacklists/liste_bu) | 2917 | A french list for educational sites. VERY locally oriented. may help libraries |
+| [malware](blacklists/malware) | 256263 | Any website which deliver malware |
 | [manga](blacklists/manga) | 846 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 156 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 709135 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 27575 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
@@ -72,7 +72,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 6039 | VPN site |
 | [warez](blacklists/warez) | 1561 | Warez sites |
-| [webhosting](blacklists/webhosting) | 30 | Site which provides webhosting |
+| [webhosting](blacklists/webhosting) | 31 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
