@@ -23,7 +23,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [child](blacklists/child) | 77 | Any website allowed to child (less than 10 years old) |
 | [cleaning](blacklists/cleaning) | 177 | Sites to disinfect, update and protect computers |
 | [cooking](blacklists/cooking) | 37 | Sites for cooking |
-| [cryptojacking](blacklists/cryptojacking) | 16289 | Mining site by hijacking |
+| [cryptojacking](blacklists/cryptojacking) | 11492 | Mining site by hijacking |
 | [dangerous_material](blacklists/dangerous_material) | 54 | Sites which describe how to make bomb and some dangerous material |
 | [dating](blacklists/dating) | 6519 | Dating, matching site for single person |
 | [ddos](blacklists/ddos) | 421 | DDoS or Stresser Sites |
@@ -31,7 +31,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [doh](blacklists/doh) | 3016 | Site which provides DNS over HTTP service |
 | [download](blacklists/download) | 4035 | Sites which propose to download software |
 | [drogue](blacklists/drogue) | 1067 | Sites relative to drugs |
-| [dynamic-dns](blacklists/dynamic-dns) | 2076 | Site which provides dynamic-dns |
+| [dynamic-dns](blacklists/dynamic-dns) | 2077 | Site which provides dynamic-dns |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
 | [fakenews](blacklists/fakenews) | 1094 | Site which provides fakenews |
@@ -44,35 +44,35 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 60741 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 200 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2917 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 259767 | Any website which deliver malware |
+| [malware](blacklists/malware) | 263526 | Any website which deliver malware |
 | [manga](blacklists/manga) | 846 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 156 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 259625 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 263575 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
-| [redirector](blacklists/redirector) | 132615 | Some redirector sites, which are used to circumvent filtering |
+| [redirector](blacklists/redirector) | 132616 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
 | [residential-proxies](blacklists/residential-proxies) | 138 | Site which provides residential-proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 23 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4552 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4554 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
-| [strict_redirector](blacklists/strict_redirector) | 132343 | Same as redirector, but with google, yahoo, and other cache/images search robots |
-| [strong_redirector](blacklists/strong_redirector) | 132343 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
+| [strict_redirector](blacklists/strict_redirector) | 132344 | Same as redirector, but with google, yahoo, and other cache/images search robots |
+| [strong_redirector](blacklists/strong_redirector) | 132344 | Same as strict_redirector, but, for google, yahoo, we are only blocking some terms |
 | [translation](blacklists/translation) | 179 | Sites for translation |
 | [tricheur](blacklists/tricheur) | 73 | Sites which are designed to explains cheating on exams |
 | [tricheur_pix](blacklists/tricheur_pix) | 85 | DO NOT USE. It s a specific blacklist for french exam |
 | [update](blacklists/update) | 33 | Update sites for software or OS |
 | [vpn](blacklists/vpn) | 6039 | VPN site |
 | [warez](blacklists/warez) | 1561 | Warez sites |
-| [webhosting](blacklists/webhosting) | 33 | Site which provides webhosting |
+| [webhosting](blacklists/webhosting) | 35 | Site which provides webhosting |
 | [webmail](blacklists/webmail) | 413 | Webmail sites (hotmail like...) |
 
 __Note__: the lists are available to download and use under the condition of the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  license
