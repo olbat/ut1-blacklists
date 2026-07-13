@@ -34,7 +34,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [dynamic-dns](blacklists/dynamic-dns) | 2077 | Site which provides dynamic-dns |
 | [educational_games](blacklists/educational_games) | 11 | educational games sites (flash and online games ) |
 | [examen_pix](blacklists/examen_pix) | 347 | A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances |
-| [fakenews](blacklists/fakenews) | 1094 | Site which provides fakenews |
+| [fakenews](blacklists/fakenews) | 1118 | Site which provides fakenews |
 | [filehosting](blacklists/filehosting) | 949 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
@@ -44,23 +44,23 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 60741 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 200 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2917 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 263526 | Any website which deliver malware |
+| [malware](blacklists/malware) | 265765 | Any website which deliver malware |
 | [manga](blacklists/manga) | 846 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 79 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 156 | Websites which contains adult sections unstructured |
 | [mobile-phone](blacklists/mobile-phone) | 52 | Sites for mobile phone (rings, etc) |
-| [phishing](blacklists/phishing) | 263575 | Phishing sites (same as malware category) |
+| [phishing](blacklists/phishing) | 265079 | Phishing sites (same as malware category) |
 | [press](blacklists/press) | 4645 | Any press (informational) site |
 | [publicite](blacklists/publicite) | 4644 | Advertisement |
 | [radio](blacklists/radio) | 577 | Internet radio sites |
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 132616 | Some redirector sites, which are used to circumvent filtering |
-| [remote-control](blacklists/remote-control) | 171 | site which allow remote control of user s dekstop |
+| [remote-control](blacklists/remote-control) | 172 | site which allow remote control of user s dekstop |
 | [residential-proxies](blacklists/residential-proxies) | 138 | Site which provides residential-proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 23 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36971 | Any shopping, selling center |
-| [shortener](blacklists/shortener) | 4554 | URLs shortening sites |
+| [shortener](blacklists/shortener) | 4555 | URLs shortening sites |
 | [social_networks](blacklists/social_networks) | 716 | All social networks sites |
 | [sports](blacklists/sports) | 2363 | Sports |
 | [stalkerware](blacklists/stalkerware) | 525 | Site which sells spying software for everybody |
